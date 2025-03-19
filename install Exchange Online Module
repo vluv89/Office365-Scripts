@@ -1,0 +1,2 @@
+Install-Module ExchangeOnlineManagement -Scope CurrentUser -Force  
+Connect-ExchangeOnline  
