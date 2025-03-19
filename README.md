@@ -6,6 +6,9 @@ This repo contains useful PowerShell scripts for automating Office 365 administr
 📌 What’s Inside?
 
 ✅ User Management – Automate user creation, updates, and removals
+
 ✅ License Management – Assign, update, and remove O365 licenses
+
 ✅ Security & Compliance – Configure MFA, security policies, and reporting
+
 ✅ Mailbox & Teams Admin – Manage Exchange Online and Teams settings
