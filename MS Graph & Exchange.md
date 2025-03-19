@@ -85,4 +85,4 @@ New-MgUserCalendarPermission -UserId user@domain.com -CalendarId Calendar -Roles
 | **New-SharingPolicy** | Set calendar sharing rules |
 | **Get-MgUserEvent** | Retrieve calendar events via Microsoft Graph |
 
-Would you like a script to automate calendar access management? 🚀
+
